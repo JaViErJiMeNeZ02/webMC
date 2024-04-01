@@ -1,0 +1,398 @@
+
+.container{
+    margin: 0 auto;
+    padding: 0;
+    font-family: sans-serif;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.section{
+    display: flex;    
+    margin: 0 auto;
+    padding: 0;
+    justify-content: center;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.img__fondo{
+    width: 100%;
+}
+.div__section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+   
+}
+.div__section--1{
+    width: 80%;
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+}
+.p__section{
+    font-size: 28px;
+}
+.p__container{
+    font-size: 18px;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding: 0;
+    width: 80%;
+}
+.div__container--1{
+    width: 80%;
+    margin: 0 auto;
+    padding: 0;
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+.p__container--1{
+    font-size: 18px;
+}
+.h3__container{
+    margin-top: 50px;
+}
+.li__container{
+    width: 80%;
+    font-size: 18px;
+}
+.section1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.div__section--img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    margin: 0 auto;
+    padding: 0;
+}
+.article__section1{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 50%;
+    margin-right: 50px;
+    width: 600px;
+
+}
+.article__section2{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 50%;
+    margin-right: 50px;
+    width: 600px;
+    
+}
+.div__border{
+    border: 1px solid lightgray;
+    border-top: none;
+    height: 175px;
+    border-radius: 10px;
+}
+
+.img__section1{
+    width: 600px;
+    height: 300px;
+    border-radius: 10px;
+}
+.button__section1{
+    width: 225px;
+    height: 45px;
+    background-color: orange;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+.logo__trabaja{
+    background-color: green;
+    width: 100px;
+    height: 85px;
+    margin-right: 30px;
+}
+.button__trabaja{
+    font-size: 20px;
+    width: 250px;
+    height: 30px;
+    background-color: orange;
+    border: none;
+    border-radius: 5px;
+    margin: 0 auto;
+}
+.nav__trabaja{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.div__trabaja{
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+}
+.h1__trabaja {
+    font-size: 50px;
+    width: 500px;
+}
+
+.section__index{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(251,160,7,255);
+    max-height: 700px;
+    width: 100%;
+    
+}
+.h2__index{
+    font-size: 45px;
+}
+
+.article__index--1{
+    margin-left: 100px;
+}
+
+
+.img__index{
+    width: 800px;
+}
+.button__index{
+    width: 200px;
+    height: 50px;
+    background-color:rgba(255,196,4,255);
+    border: none;
+    border-radius: 5px;
+    font-size: 17px;
+}
+
+
+.div__section--index{
+    display: flex;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    margin: 0 auto;
+    padding: 0;
+    margin-top: 50px;
+}
+
+.div__section--img1{
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.article__section--index{
+    
+    width: 700px !important;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 50%;
+    margin-right: 25px;
+    
+}
+
+.img__section--index{
+    width: 700px;
+    border-radius: 10px;
+
+}
+
+.form{
+    background-image: url(../assets/images/empleados.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+.div__form--1{
+    margin-right: 50px;
+    margin-top: 100px;
+    
+}
+.div__form{
+    color: white;
+    margin-top: 20px;
+}
+.div__form1{
+    margin-top: 20px;
+}
+
+.div__form1--1{
+    background-color: white;
+    border: 1px solid transparent;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+
+}
+.option{
+    color: black;
+}
+.h3__form{
+    font-size: 15px;
+}
+.section__trabaja{
+    display: flex;
+    justify-content: space-around;
+   margin-top: 30px;
+}
+.article__trabaja{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid orange;
+    border-radius: 5px;
+    width: 450px;
+    margin-right: 20px;
+}
+
+.h3__trabaja{
+    color: white;
+    background-color: rgb(73, 168, 228);
+    width: 150px;
+    height: 30px;
+    font-size: 22px;
+    align-items: center;
+    text-align: center;
+    border-radius: 5px;
+}
+.p__trabaja{
+    width: 350px;
+}
+.strong__trabaja{
+    color: orange;
+}
+
+
+.h2__trabaja{
+    font-size: 40px;
+    margin-top: 150px;
+    margin-left: 50px;
+    margin-bottom: 100px;
+}
+
+.section1__trabaja{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+.article1__trabaja{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    border: 1px solid orange;
+    height: 358px;
+    margin-left: 30px;
+   
+}
+.container__mc{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    border-radius: 10px;
+}
+.img__mc{
+    display: flex;
+    justify-content: end;
+}
+.mccortada{
+    width: 100px;
+    
+}
+.fa-check-double{
+    margin-left: 5px;
+    color: aqua;
+}
+
+.img1__trabaja{
+    width: 100px;
+    margin: 20px;
+}
+.h4__trabaja{
+    width: 500px;
+    font-size: 20px;
+    color: orange;
+}
+.h4__trabaja1{
+    width: 500px;
+    font-size: 20px;
+}
+.div1__trabaja{
+    height: 200px;
+    margin-bottom: 100px;
+}
+.div2__trabaja{
+    height: 300px;
+}
+
+
+.footer__trabaja{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    background-color: orange;
+    margin-top: 70px;
+
+}
+.h3__footer--trabaja{
+    font-size: 28px;
+    margin-left: 50px;
+
+}
+.a__footer--trabaja{
+    margin-right: 50px;
+
+}
+.input{
+    border: transparent;
+    background-color: transparent;
+    border-bottom: 1px solid white;
+    color: white;
+
+}
+.a__form{
+    margin-right: 5px;
+    text-decoration: none;
+    color: red;
+}
+
+.div__circle{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.fa-circle{
+    font-size: 20px;
+    margin-right: 20px;
+
+}
+
+
+
+
+
+
+
